@@ -5,7 +5,7 @@ from math import hypot
 class Ball:
     def __init__(self, x, y, radius, color_, speed):
         self.speed = speed
-        self.x = y  # Внимание: x и y перепутаны местами
+        self.x = y 
         self.y = x
         self.radius = radius
         self.color = color_
