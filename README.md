@@ -1,1 +1,2 @@
 # ogario
+pip install pygame
